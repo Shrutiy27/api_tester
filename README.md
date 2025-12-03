@@ -19,10 +19,6 @@ The goal of this project was to create a compact yet powerful tool that lets dev
 
 ---
 
-### 🎥 Demo Link
-
-> 🔗 **API Tester Demo:** [Watch Demo on Google Drive](https://drive.google.com/file/d/1YTr7werZ6IkyY_LLjKL473ALDqfNeh9H/view?usp=drivesdk)
-
 ## 🔽 Executable File Download
 You can download the lateversionion of **K API Tester** here:
 
